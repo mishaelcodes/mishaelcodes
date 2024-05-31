@@ -5,7 +5,7 @@ Front End Developer
 -------------------
 
 * 🌍  I'm based in Lagos, NG
-* 🖥️  See my portfolio at [Mishael Enyi || Front End Developer](https://mishaelenyi.netlify.app)
+* 🖥️  See my portfolio at [Mishael Enyi || Front End Developer](https://mishaelenyi.vercel.app)
 * ✉️  You can contact me at [enyimishael22@gmail.com](mailto:enyimishael22@gmail.com)
 * 🚀  I'm currently working on [Cuttr](https://cuttr.vercel.app)
 * 🧠  I'm learning TypeScript and Vue
